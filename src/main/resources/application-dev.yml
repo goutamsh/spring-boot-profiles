@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+message:
+  hello: Hello Spring Boot from develop
