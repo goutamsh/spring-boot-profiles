@@ -1,6 +1,8 @@
 # Spring profiles Example
 
-mvn clean install
+Build project 
+
+./mvnw clean install
 
 
 Run application with environment variable 
